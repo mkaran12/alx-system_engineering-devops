@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 100 file hello
+chmod u+x file hello
